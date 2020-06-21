@@ -14,10 +14,10 @@ https://www.kaggle.com/lopuhin/kaggle-script-template
 
 Adjustment:
 
-- if you want to rename the package from ``easy_gold`` (not sure why?)
+- if you want to rename the package from ``src`` (not sure why?)
   then you need to change ``build.py``, ``setup.py`` and
   ``script_template.py``.
-- if you want to adjust the entry point (currently ``easy_gold/main.py``),
+- if you want to adjust the entry point (currently ``src/main.py``),
   or run several commands, change ``script_template.py``.
 
 This is quite basic, feel free to adjust to your needs.
